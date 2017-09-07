@@ -27,3 +27,4 @@
 
 # SimpleCov reports
 coverage/
+.idea/

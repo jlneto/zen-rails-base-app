@@ -107,8 +107,8 @@ steps as they are not specific to this base app.
 from `ZenRailsBaseApp` to your application name, in camel case.
     2. *Optional*: Use your IDE's "search all files" feature to find and 
     replace the following strings:
-        - Replace `zen_rails_base_app` by `your_app_name` 
-        - Replace `ZEN_RAILS_BASE_APP` by `YOUR_APP_NAME`
+        - Replace `mcfox_base_app` by `your_app_name` 
+        - Replace `MCFOX_BASE_APP` by `YOUR_APP_NAME`
         - Replace `Project Name` by the project's name
         - Replace `replace@me.com`  manually by the different e-mail addresses
         that should send and receive e-mails in various parts of the 

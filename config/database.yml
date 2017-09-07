@@ -13,11 +13,11 @@ default: &default
 
 development:
   <<: *default
-  database: zen_rails_base_app_development
+  database: mcfox_base_app_development
 
 test:
   <<: *default
-  database: zen_rails_base_app_test
+  database: mcfox_base_app_test
 
 production:
   <<: *default
@@ -48,11 +48,11 @@ production:
 #
 #development:
 #  <<: *default
-#  database: zen_rails_base_app_development
+#  database: mcfox_base_app_development
 #
 #test:
 #  <<: *default
-#  database: zen_rails_base_app_test
+#  database: mcfox_base_app_test
 #
 #production:
 #  <<: *default
